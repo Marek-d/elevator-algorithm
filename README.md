@@ -12,11 +12,11 @@ Elevator has its capacity implemented which means that when there is e.g. a requ
 Javascript, HTML
 
 ## Description of an elevator algorithm
-see section ==Description of a solution==
+see section 'Description of a solution'
 
 ## Steps for compilation
 1. open index.html file in a browser
-2. send a request in the form =='floor numberOfPeople type'==, e.g. '5 3 outer' or '5 3 inner' 
+2. send a request in the form 'floor numberOfPeople type', e.g. '5 3 outer' or '5 3 inner' 
     
 
 
